@@ -78,11 +78,6 @@ Users can dynamically filter and explore insights in real time.
 
 ---
 
-## 📸 Dashboard Preview
-![HR Dashboard](dashboard-preview.png)
-
----
-
 ## 💡 Key Insights
 - Sales and Finance have the highest headcount.
 - Operations has the highest average salary.
